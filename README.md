@@ -30,3 +30,5 @@ Hello and welcome! This repository gathers information about **Summer 2024** int
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | **[Lumen](https://www.linkedin.com/company/lumentechnologies/)** | Intern - Software Engineer- Summer 2024 🌐 | Flint, MI | <a href="https://www.wayup.com/i-Information-Technology-and-Services-j-Intern-Software-Engineer-Summer-2024-Lumen-999353393483603"><img src="https://i.imgur.com/aPTxqfe.png" width="84" alt="Apply">| Oct 11 |
+| **[Savasana AI](https://www.linkedin.com/company/savasana-ai/)** | Intern, Software Engineer 🌐🚫💸 | Remote | <a href="https://wellfound.com/jobs/2506887-software-engineer-intern-back-end"><img src="https://i.imgur.com/aPTxqfe.png" width="84" alt="Apply">| Oct 11 |
+| **[Autodesk](https://www.linkedin.com/company/lumentechnologies/)** | Software Engineer Intern (Back-End) 🌐 | Ireland | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Intern--Software-Engineer_23WD72459-1"><img src="https://i.imgur.com/aPTxqfe.png" width="84" alt="Apply">| Oct 4 |
