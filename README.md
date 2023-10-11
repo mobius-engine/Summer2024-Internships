@@ -29,4 +29,4 @@ Hello and welcome! This repository gathers information about **Summer 2024** int
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| **[Lumen](https://www.linkedin.com/company/lumentechnologies/)** | Intern - Software Engineer- Summer 2024 🌐 | Flint, MI | <a href="https://www.wayup.com/i-Information-Technology-and-Services-j-Intern-Software-Engineer-Summer-2024-Lumen-999353393483603"><img src="https://i.imgur.com/CgU5pt0.png" width="84" alt="Apply">| Oct 11 |
+| **[Lumen](https://www.linkedin.com/company/lumentechnologies/)** | Intern - Software Engineer- Summer 2024 🌐 | Flint, MI | <a href="https://www.wayup.com/i-Information-Technology-and-Services-j-Intern-Software-Engineer-Summer-2024-Lumen-999353393483603"><img src="https://i.imgur.com/aPTxqfe.png" width="84" alt="Apply">| Oct 11 |
